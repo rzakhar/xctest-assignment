@@ -9,3 +9,5 @@ A modern version of XCode is required.
 Console running (device variables are passed)
 
 sh start-test.sh iPhone-SE iOS-12-4
+
+![Alt text](https://raw.githubusercontent.com/rzakhar/xctest-assignment/master/task.png)
